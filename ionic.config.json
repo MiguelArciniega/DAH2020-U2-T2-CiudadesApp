@@ -1,5 +1,7 @@
 {
   "name": "CiudadesApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
